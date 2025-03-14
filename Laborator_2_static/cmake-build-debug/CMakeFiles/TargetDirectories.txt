@@ -1,0 +1,3 @@
+C:/Users/casir/CLionProjects/Laborator_2_static/cmake-build-debug/CMakeFiles/Laborator_2_static.dir
+C:/Users/casir/CLionProjects/Laborator_2_static/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/casir/CLionProjects/Laborator_2_static/cmake-build-debug/CMakeFiles/rebuild_cache.dir
